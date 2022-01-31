@@ -1,3 +1,6 @@
 top division 
 centre division 
 bottom division 
+top division:Gmail,Images,Google apps,Sign in 
+centre division:"Google search","I'm feeling lucky","Google offered in:" 
+bottom division:About,How search works,Privacy,Settings 
