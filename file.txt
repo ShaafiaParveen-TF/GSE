@@ -4,3 +4,18 @@ bottom division
 top division:Gmail,Images,Google apps,Sign in 
 centre division:"Google search","I'm feeling lucky","Google offered in:" 
 bottom division:About,How search works,Privacy,Settings 
+TOP DIVISION 
+Gmail:receive and send emails 
+Image:direct search on images 
+Google apps 
+apps provided by google 
+Sign in:sign in with any other new account on google 
+CENTRE DIVISION 
+Google search:search things on google 
+I'm feeling lucky:directly provide proper results 
+Google offered in:languages like Tamil,Malayalam,Telugu,Marathi,Gujarati,Hindi,Kannada,etc,. 
+BOTTOM DIVISION 
+About:more information about google 
+How search works:how google search things and provide results 
+Privacy:privacy policy and terms of services of google 
+Settings:more options like Advanced settings,Theme,History,etc,. 
