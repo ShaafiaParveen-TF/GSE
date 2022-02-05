@@ -19,3 +19,5 @@ About:more information about google
 How search works:how google search things and provide results 
 Privacy:privacy policy and terms of services of google 
 Settings:more options like Advanced settings,Theme,History,etc,. 
+ 
+
