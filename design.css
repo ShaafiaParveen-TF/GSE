@@ -1,40 +1,68 @@
 #TopDiv {
   display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  border: 2px solid red;
-  width: 400px;
+  justify-content: flex-end;
+  padding: 10px;
 }
-
-#SubDiv {
-  border: 5px solid blue;
-  margin-bottom: 15px;
+#first {
+  padding: 15px;
 }
-#SubDiv2 {
-  border: 5px solid yellow;
-  margin-bottom: 15px;
-  width: 100%;
+#second {
+  padding: 15px;
 }
-#SubDiv3 {
-  margin-bottom: 15px;
+#third {
+  padding: 15px;
 }
-#SubDiv4 {
-  border: 5px solid purple;
-  margin-bottom: 15px;
+#fourth {
+  padding: 15px;
 }
-#ParentDiv {
-  border: 2px solid black;
-  height: 100%;
+#Pic {
+  display: flex;
+  justify-content: center;
+  padding-top: 180px;
+}
+#Bar {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+#HeadOfButton {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}
+#Button {
+  padding: 20px;
+}
+#ButtonB {
+  padding: 20px;
+}
+#BottomLeft {
   display: flex;
   justify-content: flex-start;
+  padding-top: 170px;
 }
-#SearchBar {
-  border-radius: 25px;
-  width: 100%;
-  padding: 10px;
+#aa {
+  padding: 15px;
 }
-#SearchTag {
-  padding: 10px;
-  font-size: 20px;
+#bb {
+  padding: 15px;
+}
+#cc {
+  padding: 15px;
+}
+#dd {
+  padding: 15px;
+}
+#BottomRight {
+  display: flex;
+  justify-content: flex-end;
+}
+#secA {
+  padding: 15px;
+}
+#secB {
+  padding: 15px;
+}
+#secC {
+  padding: 15px;
 }
