@@ -38,8 +38,8 @@
 }
 #BottomLeft {
   display: flex;
+  width: 50%;
   justify-content: flex-start;
-  padding-top: 170px;
 }
 #aa {
   padding: 15px;
@@ -55,6 +55,7 @@
 }
 #BottomRight {
   display: flex;
+  width: 50%;
   justify-content: flex-end;
 }
 #secA {
@@ -65,4 +66,8 @@
 }
 #secC {
   padding: 15px;
+}
+#BottomMain {
+  display: flex;
+  padding-top: 200px;
 }
